@@ -57,6 +57,10 @@ public:
         else
         {
             Node *current = top;
+            while (current != NULL)
+            {
+                
+            }
         }
         
     }
