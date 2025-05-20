@@ -56,7 +56,7 @@ public:
 
         else
         {
-        
+            Node *current = top;
         }
         
     }
