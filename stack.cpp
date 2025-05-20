@@ -35,4 +35,9 @@ public:
         cout << "Push Value: " << value << endl;
         return value;
     }
+
+    void pop()
+    {
+        
+    }
 };
