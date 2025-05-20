@@ -21,8 +21,8 @@ private:
     Node *top;
 
 public:
-    stack()
+    Stack()
     {
-        
+        top = NULL;
     }
 };
